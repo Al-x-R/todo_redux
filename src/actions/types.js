@@ -1,0 +1,7 @@
+const ACTION_TYPE = {
+    CREATE_TASK: 'CREATE_TASK',
+    UPDATE_TASK: 'UPDATE_TASK',
+    DELETE_TASK: 'DELETE_TASK',
+};
+
+export default ACTION_TYPE;
